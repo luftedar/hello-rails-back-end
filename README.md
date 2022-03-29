@@ -59,6 +59,10 @@ rails s
 
 ## Available Endpoints
 
+### Returns a random greeting from the database
+
+`Don't forget to start localhost before try`
+
 ```
 localhost:3000/v1/greetings
 ```
