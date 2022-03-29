@@ -4,6 +4,10 @@
 
 > Built for the hello-rails-back-end project.
 
+# Front End Repo
+
+[Front End React App](https://github.com/luftedar/hello-rails-front-end)
+
 
 ## Built With
 
@@ -64,7 +68,7 @@ rails s
 `Don't forget to start localhost before try`
 
 ```
-localhost:3000/v1/greetings
+http://127.0.0.1:3000/v1/greetings
 ```
 
 ## Authors
