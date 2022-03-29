@@ -6,7 +6,7 @@
 
 # Front End Repo
 
-[Front End React App](https://github.com/luftedar/hello-rails-front-end)
+[Front End React App](https://github.com/luftedar/hello-react-front-end)
 
 
 ## Built With
